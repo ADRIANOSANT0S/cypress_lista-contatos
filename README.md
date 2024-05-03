@@ -1,6 +1,6 @@
 ## Instruços para instalar corretamente
 ### Gerenciador de pacotes
-Yanr
+Yarn
 ### Instalar dependências
 yarn
 ### Comando para gerar relatório de testes
